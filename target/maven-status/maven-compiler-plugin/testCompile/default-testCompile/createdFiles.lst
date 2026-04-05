@@ -1,0 +1,4 @@
+com\shopwave\controller\ProductControllerTest.class
+com\shopwave\repository\ProductRepositoryTest.class
+com\shopwave\service\ProductServiceTest.class
+com\shopwave\ShopwaveApplicationTests.class
