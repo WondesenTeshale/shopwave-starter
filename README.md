@@ -29,4 +29,4 @@ mvn clean test
 ```
 
 ## AI Disclosure statement
-**Academic Honesty Disclosure:** Portions of this code (variable renaming refactoring, repository testing boilerplate, and global exception mapping) were written with assistance from an AI coding assistant. The logical architecture and structural decisions align directly with the unit lecture fundamentals.
+USED AI AT THE LAST PART TO CHECK MY CODE AND ADD REFINING.
